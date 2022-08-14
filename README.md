@@ -1,1 +1,1 @@
-# Домашнее задание к занятию Вложенные подзапросы, JOIN'ы, агрегирующие запросы
+# Домашнее задание к занятию JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
